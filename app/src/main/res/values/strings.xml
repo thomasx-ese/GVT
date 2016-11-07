@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">German Vocabulary Trainer 2.0 beta</string>
+    <string name="purpose_zh">Chinese</string>
+    <string name="purpose_de">Deutsch</string>
+    <string name="purpose_gap">Gender &amp; Plural</string>
+    <!-- The text for buttons -->
+    <string name="button_right">Right</string>
+    <string name="button_wrong">Wrong</string>
+    <string name="button_next">Next</string>
+    <string name="button_discard">Discard</string>
+    <string name="button_postpone">Postpone</string>
+    <string name="button_show">Show</string>
+</resources>
